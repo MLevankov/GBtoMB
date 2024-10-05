@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899 12 30 00:00:00.000.903,=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.518,=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.588,=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899 12 30 00:00:00.000.853,=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024 07 18 17:24:20.331,=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024 07 18 17:24:20.513,=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Unit5.cpp</Transaction>
+    <Transaction>2024 07 18 17:47:16.356,C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\GB_to_MBPCH1.h=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024 07 18 17:47:16.646,C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\GB_to_MB.cbproj=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024 07 18 17:47:22.723,C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\GB_to_MB.cbproj=C:\Users\Матвей.Texnotech-ПК.002\Documents\Embarcadero\Studio\Projects\GB_to_MB.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
